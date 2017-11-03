@@ -1,0 +1,6 @@
+ChangeLog
+=========
+
+Version 3.0.4
+
+	i) Menu Duplicacy fixed.

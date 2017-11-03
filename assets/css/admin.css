@@ -1,0 +1,134 @@
+#customize-theme-controls > ul li.accordion-section:nth-of-type(even) h3 {
+  background: #eedfdb;
+}
+#customize-theme-controls > ul li.accordion-section:nth-of-type(odd) h3 {
+  background: #f3e8e5;
+}
+#customize-theme-controls > ul li.accordion-section h3 {
+  border-color: #e9d5d0;
+}
+#customize-theme-controls > ul li.control-section-themes h3 {
+  background: #e6cfc9;
+}
+.wp-full-overlay-sidebar {
+  background: #f6eeec;
+}
+#customize-controls .control-section:hover > .accordion-section-title,
+#customize-controls .control-section .accordion-section-title:focus {
+  background: #e2c9c2;
+}
+#customize-controls .customize-info .accordion-section-title {
+  background: #ecdbd7;
+}
+#customize-controls .customize-info,
+.customize-section-title,
+#customize-theme-controls .accordion-section-content,
+#customize-header-actions,
+.customize-controls-close,
+.customize-section-back {
+  border-color: #e9d5d0;
+}
+.customize-controls-close {
+  background: #d5b0a7;
+  color: white;
+}
+.customize-controls-close:hover {
+  background: #cda195;
+}
+.customize-section-back {
+  background: #eedfdb;
+}
+.customize-section-back:hover {
+  background: #e6cfc9;
+}
+/* Customizer Icon Styles */
+li#accordion-section-seller_header h3:before {
+  content: "\f1dc";
+  font-family: "FontAwesome";
+}
+li#accordion-section-title_tagline h3:before {
+  content: "\f10c";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_basic_settings h3:before {
+  content: "\f14a";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_slider_panel h3:before {
+  content: "\f03e";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_skin_options h3:before {
+  content: "\f1fc";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_fcp_panel h3:before {
+  content: "\f07a";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_a_fcp_panel h3:before {
+  content: "\f005";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_showcase_panel h3:before {
+  content: "\f03e";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_design_panel h3:before {
+  content: "\f038";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-seller_footer_panel h3:before {
+  content: "\f0ab";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_typo_options h3:before {
+  content: "\f1a0";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_ads h3:before {
+  content: "\f1ea";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_social_section h3:before {
+  content: "\f099";
+  font-family: "FontAwesome";
+}
+li#accordion-section-seller_analytics_js h3:before {
+  content: "\f013";
+  font-family: "FontAwesome";
+}
+li#accordion-section-background_image h3:before {
+  content: "\f1c5";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-nav_menus h3:before {
+  content: "\f0c9";
+  font-family: "FontAwesome";
+}
+li#accordion-panel-widgets h3:before {
+  content: "\f04c";
+  font-family: "FontAwesome";
+}
+li#accordion-section-static_front_page h3:before {
+  content: "\f24d";
+  font-family: "FontAwesome";
+}
+li h3:before {
+  margin-right: 5px;
+}
+.customize-section-description-container h3:before {
+  content: none;
+  display: none;
+}
+li[id$="_priority"] input {
+  background: #444;
+  color: #fff;
+  font-weight: bold;
+}
+.wp-color-result {
+  color: black;
+}
+li.control-section ul li h3:before {
+  content: none !important;
+}
